@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/veandco/go-sdl2/sdl"
+	"github.com/jmccarthy/go-sdl2/sdl"
 )
 
 func main() {
